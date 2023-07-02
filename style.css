@@ -1,0 +1,12 @@
+#dvd-container {
+    position: relative;
+    width: 100vw;
+    height: 98vh;
+    overflow: hidden;
+}
+
+#dvd-logo {
+    position: absolute;
+    width: 10%;
+    height: 8%;
+}
